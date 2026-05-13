@@ -1,4 +1,4 @@
-# Kurnia Surya Baskara - Data Analyst / Data Engineer
+# Kurnia Surya - Data Analyst / Data Engineer
 
 👋 Hello and welcome!
 

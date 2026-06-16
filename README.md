@@ -20,6 +20,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer passionate about transfor
 
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/kurniasuryab/)
 - Email: kurniasuryab@gmail.com
+- Contact: +6287774346660
 
 ---
 

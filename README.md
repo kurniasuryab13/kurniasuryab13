@@ -9,10 +9,10 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer passionate about transfor
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** Cloud-based data transformation using dbt and AWS.
 - 👯 **Collaboration Interests:** Open to teaming up on end-to-end data solutions, from wrangling and cleaning raw data to building insightful dashboards, automated reporting pipelines, and data-driven recommendations for business decisions.
 - 🌐 **Background Insight:** My experience in government agencies has given me a distinct perspective on how data plays a critical role in professional environments, driving my passion to develop practical and impactful solutions.
 - 🎭 **Fun Fact:** I've built strong coordination and communication skills through my work in government institutions, engaging with diverse leaders and individuals across various levels — which has also sharpened my ability to deliver clear, concise reports to company executives.
+- 🌱 **Currently Learning:** Cloud-based data transformation using dbt and AWS.
 
 ---
 

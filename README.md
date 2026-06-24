@@ -1,8 +1,8 @@
 # Kurnia Surya - Data Analyst / Data Engineer
 
-👋 Hello and welcome!
+👋 Hello and welcome to my GitHub Profile!
 
-I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw data into impactful insights and build a strong data pipeline. I've been trained by Hacktiv8's program called Comprehensive Data Analyst and work by experience in government agency at East Java Goverment. I use a data-driven approach to tackle problems at work, and I'm eager to apply that in the business world to help organizations make decisions that are both accurate and impactful.
+I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw data into impactful insights and build a strong data pipeline. I've been trained by Hacktiv8's program called Comprehensive Data Analyst and work by experience in government agency at East Java Goverment.
 
 
 ---

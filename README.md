@@ -18,7 +18,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/kurniasuryab/)
+- LinkedIn: [Kurnia Surya](https://www.linkedin.com/in/kurniasuryab/)
 - Email: kurniasuryab@gmail.com
 - Contact: +6287774346660
 
@@ -27,7 +27,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 ## 🛠 Skills
 
 - **Languages:** Python, SQL
-- **Data Analysis & Visualization:** Ms. Excel, Spreadsheet, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Google Looker Studio
+- **Data Analysis & Visualization:** PostgreSQL, Ms. Excel, Spreadsheet, Python (Pandas, Matplotlib, Seaborn, Plotly), Tableau, Google Looker Studio
 - **Database Management:** PostgreSQL, NeonDB, MongoDB
 - **Data Engineering & Pipeline:** Apache Airflow, Apache Kafka, Apache Spark
 - **Version Control & Collaboration:** Git, GitHub, Docker

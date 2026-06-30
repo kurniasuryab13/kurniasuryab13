@@ -4,7 +4,6 @@
 
 I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw data into impactful insights and build a strong data pipeline. I've been trained by Hacktiv8's program called Comprehensive Data Analyst and work by experience in government agency at East Java Goverment.
 
-
 ---
 
 ## 🚀 About Me

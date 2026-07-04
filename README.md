@@ -38,7 +38,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 
 ### Hacktiv8 Comprehensive Data Analyst Bootcamp
 Core Skills Developed:
-Data Wrangling, Visualization, Statistical Analysis, SQL, Data Pipeline, Automation.
+Visualization, Statistical Analysis, Data Wrangling, SQL, Data Pipeline, Automation.
 
 ---
 

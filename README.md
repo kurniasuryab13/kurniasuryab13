@@ -30,7 +30,6 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 - **Database Management:** PostgreSQL, NeonDB, MongoDB
 - **Data Engineering & Pipeline:** Apache Airflow, Apache Kafka, Apache Spark
 - **Version Control & Collaboration:** GitHub, Docker
-- **Other Skills:** ETL Development, Data Wrangling, Real-time Data Pipelines, Data Modeling, Data Cleaning, Statistical Analysis
 
 ---
 
@@ -38,7 +37,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 
 ### Hacktiv8 Comprehensive Data Analyst Bootcamp
 Core Skills Developed:
-Tableau Visualization, Statistical Analysis, Data Wrangling, SQL, Data Pipeline, and Automation (Airflow).
+Tableau Visualization, Statistical Analysis, Data Wrangling, SQL, Data Modeling, Data Cleaning, Data Pipeline, ETL Development, and Automation (Airflow).
 
 ---
 

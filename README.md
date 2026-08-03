@@ -26,7 +26,7 @@ I'm **Kurnia Surya**, a Data Analyst and Data Engineer who love transforming raw
 ## 🛠 Skills
 
 - **Languages:** Python, SQL
-- **Data Analysis & Visualization:** PostgreSQL, Ms. Excel, Google Spreadsheet, Python (Pandas, Matplotlib, Seaborn, Plotly), Tableau, Google Looker Studio
+- **Data Analysis & Visualization:** PostgreSQL, Ms. Excel, Google Spreadsheet, Python (Pandas, Matplotlib, Seaborn, Plotly, Selenium), Tableau, Google Looker Studio
 - **Database Management:** PostgreSQL, NeonDB, MongoDB
 - **Data Engineering & Pipeline:** Apache Airflow, Apache Kafka, Apache Spark
 - **Version Control & Collaboration:** GitHub, Docker

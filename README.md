@@ -2,7 +2,7 @@
 
 👋 Hello and welcome to my GitHub Profile!
 
-I'm **Kurnia Surya**, a Data Analyst who love transforming raw data into impactful insights and build a strong data pipeline. I've been trained by Hacktiv8's program called Comprehensive Data Analyst, and achieve Honors Title with a Final Grade 95.32%, and work by experience in government agency at East Java Goverment. I specialize in building visualizations and extracting insights from raw data, helping clients fully understand their data and make data driven decisions.
+I'm **Kurnia Surya**, a Data Analyst who love transforming raw data into impactful insights and build a strong data pipeline. I've been trained by Hacktiv8's program called Comprehensive Data Analyst, and achieve Honors Title with a Final Grade 95.32%. I have an experience in government agency because I work at East Java Goverment until now. I specialize in building visualizations and extracting insights from raw data, helping clients fully understand their data and make data driven decisions.
 
 ---
 

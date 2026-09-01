@@ -20,7 +20,8 @@ I'm **Kurnia Surya**, a Data Analyst who love transforming raw data into impactf
 - LinkedIn: [Kurnia Surya](https://www.linkedin.com/in/kurniasuryab/)
 - Email: kurniasuryab@gmail.com
 - Contact: +6287774346660
-
+- Web : https://kurniasuryab13.github.io/
+- 
 ---
 
 ## 🛠 Skills
